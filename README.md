@@ -1,1 +1,1 @@
-# lattitude-and-longtitude-of-Cities-in-China
+# collecting lattitude-and-longtitude-of-ALL Cities-in-China
